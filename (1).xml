@@ -101,7 +101,7 @@ fetch = async function (url, ...args) {
     //canvas.style.background = "url('" + buildUrl + "/') center / cover";
     //#endif
 
-    canvas.style.background = "url('https://cdn.jsdelivr.net/gh/rabanemeye/7878@main/background.png') center / cover";
+    canvas.style.background = "url('https://cdn.jsdelivr.net/gh/zx9qv8n4rpl7t6k2m1y/asset@main/efacdd67-ec59-4d24-ac43-38698e116ce2.png') center / cover";
     loadingCover.style.display = "";
 
     let player;
@@ -662,5 +662,5 @@ canvas.addEventListener("pointerdown", () => {window.focus()});
 
 
 
-]]></Content>
+</Content>
 </Module>
